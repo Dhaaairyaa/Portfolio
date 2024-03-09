@@ -4,6 +4,7 @@ import Education from "./education.js";
 import Testimonials from "./testimonial.js"
 import Memories from "./memories.js"
 import Skills from "./skills"
+import Poem from './Poem.js';
 const Body = () => {
     const [reviews, setReviews] = useState(null);
 
@@ -29,6 +30,7 @@ const Body = () => {
             <Skills></Skills>
             <Testimonials reviews={reviews}></Testimonials>
             <Memories></Memories>
+            <Poem></Poem>
         </div>
     )
 };
