@@ -29,7 +29,7 @@ const Body = () => {
             <Education></Education>
             <Skills></Skills>
             <Testimonials reviews={reviews}></Testimonials>
-            <Memories></Memories>
+            {/* <Memories></Memories> */}
             <Poem></Poem>
         </div>
     )

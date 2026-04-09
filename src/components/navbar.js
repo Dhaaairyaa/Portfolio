@@ -7,7 +7,7 @@ export const Navbar = () => {
             </div>
             <div className=" text-white text-[25px] flex flex-row items-center justify-between space-x-5 mr-8 max-[1002px]:mr-4">
                 <a href="mailto:nidhipatel.g@gmail.com" className="max-[1002px]:  max-[1002px]:text-[15px]">Contact</a>
-                <a href="https://drive.google.com/file/d/1l2hw0uzDHq_-bhBwpau_4eSZTxdpAX1g/view?usp=sharing" className="max-[1002px]:text-[15px]">Resume</a>
+                <a href="https://drive.google.com/drive/folders/1HrpIqJVH9g6Ulh2UTgU-ent78iCz5ec2?usp=sharing" className="max-[1002px]:text-[15px]">Resume</a>
             </div>
 
         </div>

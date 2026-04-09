@@ -24,7 +24,7 @@ const Education = () => {
                     Work Experience
                 </h1>
 
-                <div className="flex max-[1002px]:flex-col max-[1002px]:items-center max-[1002px]:space-y-10 pt-[50px] justify-center min-[1002px]:space-x-40 max-[1002px]:pt-8 max-[1002px]:space-y-10">
+                <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-10 pt-[50px] px-6">
                     {WorkExperience.map((item, index) => (
                         <WorkCards key={index} data={item} />
                     ))}

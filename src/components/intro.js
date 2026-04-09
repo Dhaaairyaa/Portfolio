@@ -5,8 +5,10 @@ const Intro = () => {
         const typeData = new Typed('.role', {
             strings: [
                 'Physics Educationalist',
+                'Instructional Designer',
                 'Curriculum Developer',
-                'Content Writter',
+                'Learning Program Designer',
+                'Content Developer'
             ],
             loop: true,
             typeSpeed: 80,
@@ -18,7 +20,7 @@ const Intro = () => {
             typeData.destroy();
         };
     }, []);
-    const pfp = "https://firebasestorage.googleapis.com/v0/b/portfolio-17239.appspot.com/o/HomePage%2Fpfp.jpeg?alt=media&token=0ef103e1-9cb0-407c-a456-86e8f8ac22e7"
+    const pfp = "https://res.cloudinary.com/divzmyaxk/image/upload/v1775775004/PHOTO-2024-02-19-20-28-06_2_belr0j.jpg"
     return (
         <div className="bg-black h-auto pb-24 max-[1002px]:pb-12 ">
 
@@ -39,12 +41,7 @@ const Intro = () => {
 
                         <div className="mt-[20px] text-[18px] max-[1002px]:text-[14px] max-[1002px]:mt-[15px]">
                             <p>
-                                Dedicated and aspiring Physics teacher possessing adept classroom management skills, meticulous lesson planning,
-                                and organizational proficiency. Fueled by a compassionate and caring attitude, I am dedicated to inspiring, motivating,
-                                and cultivating imaginative and innovative thinking in each student. Demonstrated ability to handle multiple priorities and
-                                achieve results by aligning cross-functional and multidivisional activities. Thrives in collaborative, multicultural,
-                                team-oriented, and fast-paced environments. Eager to contribute my passion for physics education to foster a dynamic and
-                                engaging learning environment.
+                            Driven by over 8 years of experience across teaching, training, and instructional design, I specialize in creating high-impact learning experiences that bridge the gap between complex information and learner retention. My expertise spans the full development lifecycle—from collaborating with SMEs to align content with business requirements, to delivering engaging sessions via ILT and VILT environments. With a strong foundation in tools like Storyline 360 and Rise 360, I am dedicated to implementing outcome-driven strategies and leveraging AI integration to enhance educational accessibility and performance metrics.
                             </p>
                         </div>
 

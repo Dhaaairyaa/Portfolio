@@ -24,21 +24,31 @@ export const educationData = [
 
 export const WorkExperience = [
     {
-        Institution: "Raunaq Public School",
-        Duration: "May-2019 - Present",
-        Designation: "PGT Physics",
-        website: "https://www.rpsganaur.in/",
-        role1: "Ensured the highest possible level of achievement while teaching students to their strongest potential",
-        role2: "Maximized positive learning potential by creating unique questionnaires that addressed learning",
-        role3: "Established a collaborative and interactive classroom atmosphere, encouraging open dialogue and active participation."
+        Institution: "EHS Guru Sustainable Solutions Pvt. Ltd.",
+        Duration: "Jan 2026 - Present",
+        Designation: "Instructional Design Associate",
+        website: "https://www.ehsguru.com/",
+        role1: "Designed comprehensive train-the-trainer (TTT) programs focused on environmental safety and hazard prevention strategies.",
+        role2: "Defined core learning objectives and structured Instructor-Led Training (ILT) modules with compliance-driven assessment frameworks.",
+        role3: "Ensured all instructional materials remained strictly aligned with evolving industry standards and specific business requirements."
     },
     {
-        Institution: "Self Owned Coaching Centre",
-        Duration: "Apr-2018 - Present",
-        Designation: "PGT Physics",
-        role1: "Recognized for leading and managing students to achieve the highest increase in scores.",
-        role2: "Provided students with weekly progress notes, setting learning objectives and tracking their improvement.",
-        role3: "Utilized technology as an instructional tool to enhance lessons and make learning more engaging and relevant."
+        Institution: "STEM Coaching Center",
+        Duration: "Apr 2018 - Present",
+        Designation: "Founder & Learning Program Designer",
+        website: "",
+        role1: "Designed and managed high-impact learning programs for over 150 students annually, focusing on outcome-driven delivery.",
+        role2: "Developed structured learning pathways and comprehensive revision frameworks to significantly improve student performance.",
+        role3: "Engineered assessment strategies to monitor progress and ensure educational objectives were consistently met."
     },
-
+    {
+        Institution: "Raunaq Public School (Apollo Group of Schools)",
+        Duration: "Apr 2019 - Nov 2023",
+        Designation: "Physics Educator",
+        website: "https://www.rpsganaur.in/",
+        role1: "Implemented experiential and blended learning solutions, resulting in a 30–40% increase in learner engagement.",
+        role2: "Facilitated ILT and VILT sessions, ensuring seamless knowledge transfer across both in-person and virtual environments.",
+        role3: "Integrated advanced digital tools and multimedia resources to optimize learning accessibility and retention."
+    }
+    
 ]
