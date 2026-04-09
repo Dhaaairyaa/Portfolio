@@ -25,8 +25,8 @@ export const educationData = [
 export const WorkExperience = [
     {
         Institution: "EHS Guru Sustainable Solutions Pvt. Ltd.",
-        Duration: "Jan 2026 - Present",
-        Designation: "Instructional Design Associate",
+        Duration: "Nov 2025 - Mar 2026",
+        Designation: "Instructional Designer - Project Intern",
         website: "https://www.ehsguru.com/",
         role1: "Designed comprehensive train-the-trainer (TTT) programs focused on environmental safety and hazard prevention strategies.",
         role2: "Defined core learning objectives and structured Instructor-Led Training (ILT) modules with compliance-driven assessment frameworks.",
